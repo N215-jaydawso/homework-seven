@@ -1,17 +1,18 @@
-.content {
-  width: $content-width;
-  height: 600px;
-  color: orange;
-
-  .offer1 {
-    width: 980px;
-    height: 200px;
-    color: green;
-  }
-
-  .offer2 {
-    width: 980px;
-    height: 200px;
-    color: purple;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
 }
