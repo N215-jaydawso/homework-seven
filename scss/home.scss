@@ -1,6 +1,18 @@
 .wrapper {
   margin: 0 auto;
   width: $site-width;
-  height: 300px;
+  height: 710px;
   background-color: green;
+
+  .offerOne {
+    width: $site-width;
+    height: 300px;
+    background-color: bisque;
+  }
+
+  .offerTwo {
+    width: $site-width;
+    height: 400px;
+    background-color: aqua;
+  }
 }
