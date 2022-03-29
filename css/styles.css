@@ -57,8 +57,28 @@ footer {
   height: 300px;
   background-color: bisque;
 }
+.wrapper .offerOne .imageOne {
+  width: 100px;
+  min-height: 200px;
+  background-color: pink;
+}
+.wrapper .offerOne .textOne {
+  width: 200;
+  height: 100px;
+  background-color: purple;
+}
 .wrapper .offerTwo {
   width: 980px;
   height: 400px;
   background-color: aqua;
+}
+.wrapper .offerTwo .imageTwo {
+  width: 100px;
+  min-height: 200px;
+  background-color: pink;
+}
+.wrapper .offerTwo .textTwo {
+  width: 100;
+  height: 300px;
+  background-color: purple;
 }
